@@ -1,2 +1,2 @@
-# iris_knn
-iris dataset classification using KNN
+# iris_KNN
+iris dataset classification using KNN with different neighbors values 
